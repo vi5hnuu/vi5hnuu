@@ -41,16 +41,6 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <br>
 
-## Some of my stats :bar_chart:
-
-<img src="https://github-readme-stats.vercel.app/api?username=vi5hnuu&show_icons=true&theme=radical&include_all_commits=true">
-
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vi5hnuu&show_icons=true&locale=en&layout=compact" alt="vi5hnuu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vi5hnuu&show_icons=true&locale=en" alt="vi5hnuu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vi5hnuu&" alt="vi5hnuu" /></p>
 
 
 <h3 align="left">Connect with me:<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"></h3>
