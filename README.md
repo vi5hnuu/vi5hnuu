@@ -3,14 +3,14 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/vi5hnuu/count.svg?"  />
+</div>
+
 # 💫 About Me:
 <p><em>Student at LOVELY PROFESSIONAL UNIVERSITY<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vi5hnuu&label=Profile%20views&color=0e75b6&style=flat" alt="vi5hnuu" /> </p>
-
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kvi5hnu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vi5hnukumar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vi5hnu) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Vishnu-Kumar-3460) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16339862) 
