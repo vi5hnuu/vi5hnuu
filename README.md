@@ -9,7 +9,7 @@
 </div>
 
 # 🕸️ ❤️ 🛜 Domain:
-portfolio (under development) : https://dev-vishnu.laxmi.solutions/
+portfolio : https://dev-vishnu.laxmi.solutions/
 
 # 💫 About Me:
 <p><em>Student at Digio.in<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
