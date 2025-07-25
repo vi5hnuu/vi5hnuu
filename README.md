@@ -3,11 +3,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/vi5hnuu/count.svg?"  />
-</div>
-
 # 🕸️ ❤️ 🛜 Domain:
 portfolio : https://dev-vishnu.laxmi.solutions/
 
